@@ -62,7 +62,8 @@ nav ul {
 #about-us {
     text-align: center;
     color: white;
-    background-color: rgb(86,126,118);
+    
+    background-image: linear-gradient(to right, rgb(86,126,118), rgb(149,169,165));
     margin-left:20%;
     padding:100px 50px;
     
@@ -121,7 +122,7 @@ nav img {
 #sponsor-us {
     text-align: center;
     color: white;
-    background-color: rgb(86,126,118);
+    background-image: linear-gradient(to right, rgb(86,126,118), rgb(149,169,165));
     margin-left:20%;
     
     padding:100px 50px;
